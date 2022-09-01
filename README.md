@@ -2,6 +2,16 @@
 
 ## Getting Started
 
+## Clone This Repo
+
+After Clonning this repo you need to run npm install to install node modules
+
+## Husky Install
+
+Run Husky install to setup Husky for your projects
+
+## Server
+
 First, run the development server:
 
 ```bash
